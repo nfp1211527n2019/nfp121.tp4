@@ -1,8 +1,8 @@
 #BlueJ class context
-comment0.target=Vue
-comment0.text=\r\n\ Dina\ Kanaan\r\n
+comment0.target=Vue2
+comment0.text=\r\n\ Diana\ Kanaan\r\n
 comment1.params=pile
-comment1.target=Vue(PileModele)
+comment1.target=Vue2(PileModele)
 comment2.params=obs\ arg
 comment2.target=void\ update(java.util.Observable,\ java.lang.Object)
 numComments=3
